@@ -1,5 +1,5 @@
 - Hello world! I’m @Karin-Nielsen
-- I’m currently a Senior pursuing a Bachelor of Science in Computer Science at the University of Texas at Dallas
+- I have a Bachelor of Science in Computer Science from the University of Texas at Dallas
 - I have 10 years of experience in the auto financial-related technical industry
 - I am interested in data analytics, project management, and QA testing
 - My LinkedIn profile can be viewed at https://www.linkedin.com/in/karinnielsen88/
